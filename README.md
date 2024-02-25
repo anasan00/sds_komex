@@ -17,11 +17,11 @@ Schedule:
 - 9:15-10:00 Lecture: Introduction to Social Data Science and the case of search
 data and Google Flu trends. **[[Slides]](https://dgarcia-eu.github.io/SDS-KOMEX/01_Intro_GoogleFluTrends/Slides.html)**
 
-- 10:00-10:30 Tutorial: Introduction to Data Processing with Pandas. **[[Notebook 1.1]]()**
+- 10:00-10:30 Tutorial: Introduction to Data Processing with Pandas. **[[Notebook 1.1]](https://github.com/anasan00/sds_komex/blob/main/tutorials/day1/11_pandas_data_exploration.ipynb)** and **[[Notebook 1.2]](https://github.com/anasan00/sds_komex/blob/main/tutorials/day1/12_pandas_data_processing.ipynb)**
 
 - 10:30:11:00 Break
 
-- 11:00-12:30 Tutorial: Using Google Trends data in Python. **[[Notebook 1.2]]()**
+- 11:00-12:30 Tutorial: Using Google Trends data in Python. **[[Notebook 1.3]](https://github.com/anasan00/sds_komex/blob/main/tutorials/day1/13_google_trends.ipynb)**
 
 - 12:30-13:30 Lunch
 
