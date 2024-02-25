@@ -31,7 +31,7 @@ orientation and GDP with Google Trends and World Bank API. **[[Exercise 1]]()**
 ### Tuesday, 27.02: Social Impact
 
 - 09:00-10:30 Lecture: Social Impact in online media with regression and
-bootstrapping. **[[Slides]]()**
+bootstrapping. **[[Slides]](https://dgarcia-eu.github.io/SDS-KOMEX/02_SocialImpact/Slides.html)**
 
 - 10:30:11:00 Break
 
@@ -45,7 +45,7 @@ Reddit. **[[Exercise 2]]()**
 ### Wednesday, 28.02: Computational Affective Science and NLP
 
 - 09:00-10:30 Lecture: Computational Affective Science: supervised and
-unsupervised sentiment analysis. **[[Slides]]()**
+unsupervised sentiment analysis. **[[Slides]](https://dgarcia-eu.github.io/SDS-KOMEX/03_TextAnalysis/Slides.html)**
 
 - 10:30:11:00 Break
 
@@ -59,7 +59,7 @@ supervised analysis with scikit-learn.  **[[Notebook 3.1]]()**
 
 ###  Thursday, 29.02: Social Networks Part 1
 
-- 09:00-10:30 Lecture: Online Social networks: concepts and node-level analysis.  **[[Slides]]()**
+- 09:00-10:30 Lecture: Online Social networks: concepts and node-level analysis.  **[[Slides]](https://dgarcia-eu.github.io/SDS-KOMEX/04_Intro_Networks/Slides.html)**
 
 - 10:30:11:00 Break
 
@@ -72,7 +72,7 @@ supervised analysis with scikit-learn.  **[[Notebook 3.1]]()**
 ###  Friday, 01.03: Social Networks Part 2
 
 - 09:00-10:30 Lecture: Network-level metrics and analysis - Social resilience and
-communities.  **[[Slides]]()**
+communities.  **[[Slides]](https://dgarcia-eu.github.io/SDS-KOMEX/05_NetworkAnalysis/Slides.html)**
 
 - 10:30:11:00 Break
 
