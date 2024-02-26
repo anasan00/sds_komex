@@ -8,7 +8,7 @@ Supervised learning: 1:30 PM – 2:30 PM
 
 Office Hours: 2:45-3:45 PM
 
-Schedule:
+Schedule: https://github.com/anasan00/sds_komex/blob/main/schedule.pdf
 
 ### Monday 26.02: Search Data and Google Flu Trends
 
@@ -85,4 +85,4 @@ with Gephi. **[[Notebook 5.1]]()**
 detection.  **[[Exercise 5]]()**
 
 
-
+daily mini feedback link: https://forms.gle/CGTL11gewGSkVjZa8
