@@ -26,7 +26,7 @@ data and Google Flu trends. **[[Slides]](https://dgarcia-eu.github.io/SDS-KOMEX/
 - 12:30-13:30 Lunch
 
 - 13:30-14:30 Supervised Learning: Testing the relationship between future
-orientation and GDP with Google Trends and World Bank API. **[[Exercise 1]]()**
+orientation and GDP with Google Trends and World Bank API. **[[Exercise 1]](https://github.com/anasan00/sds_komex/tree/main/Exercises/Exercise%201)**
 
 ### Tuesday, 27.02: Social Impact
 
