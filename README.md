@@ -35,12 +35,12 @@ bootstrapping. **[[Slides]](https://dgarcia-eu.github.io/SDS-KOMEX/02_SocialImpa
 
 - 10:30:11:00 Break
 
-- 11:00-12:30 Tutorial: Reddit API, loading and dumping JSON, and linear regression basics in Python. **[[Notebook 2.1]]()**
+- 11:00-12:30 Tutorial: loading and dumping JSON, and Reddit API. **[[Notebooks for Day 2]](https://github.com/anasan00/sds_komex/tree/main/tutorials/day2)**
 
 - 12:30-13:30 Lunch
 
 - 13:30-14:30 Supervised Learning: Testing the division of impact hypothesis on
-Reddit. **[[Exercise 2]]()**
+Reddit. **[[Exercise 2]](https://github.com/anasan00/sds_komex/blob/main/Exercises/Exercise%202/exercise02.ipynb)**
 
 ### Wednesday, 28.02: Computational Affective Science and NLP
 
@@ -50,11 +50,11 @@ unsupervised sentiment analysis. **[[Slides]](https://dgarcia-eu.github.io/SDS-K
 - 10:30:11:00 Break
 
 - 11:00-12:30 Tutorial: Off-the-self sentiment analysis (VADER and BERT) and
-supervised analysis with scikit-learn.  **[[Notebook 3.1]]()**
+supervised machine learning with scikit-learn.  **[[Notebooks]](https://github.com/anasan00/sds_komex/tree/main/tutorials/day3)**
 
 - 12:30-13:30 Lunch
 
-- 13:30-14:30 Supervised Learning: Evaluation of sentiment analysis methods. **[[Exercise 3]]()**
+- 13:30-14:30 Supervised Learning: Evaluation of sentiment analysis methods. **[[Exercise 3]](https://github.com/anasan00/sds_komex/blob/main/Exercises/Exercise%203/Exercise3.ipynb)**
 
 
 ###  Thursday, 29.02: Social Networks Part 1
