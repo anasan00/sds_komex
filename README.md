@@ -63,7 +63,7 @@ supervised machine learning with scikit-learn.  **[[Notebooks]](https://github.c
 
 - 10:30:11:00 Break
 
--  11:00-12:30 Tutorial: Handling network data with NetworkX. **[[Notebook 4.1]]()**
+-  11:00-12:30 Tutorial: Handling network data with NetworkX. **[[Notebooks]](https://github.com/anasan00/sds_komex/tree/main/tutorials/day4)**
 
 - 12:30-13:30 Lunch
  
