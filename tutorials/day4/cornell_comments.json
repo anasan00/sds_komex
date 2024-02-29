@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    "sevectorv2",
+    "ithacaster",
+    "zaptrem",
+    "KrzysisAverted"
+  ],
+  "edges": [
+    [
+      "sevectorv2",
+      "sevectorv2"
+    ],
+    [
+      "sevectorv2",
+      "ithacaster"
+    ],
+    [
+      "ithacaster",
+      "sevectorv2"
+    ],
+    [
+      "zaptrem",
+      "KrzysisAverted"
+    ],
+    [
+      "KrzysisAverted",
+      "zaptrem"
+    ]
+  ]
+}
