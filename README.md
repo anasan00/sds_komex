@@ -67,7 +67,7 @@ supervised machine learning with scikit-learn.  **[[Notebooks]](https://github.c
 
 - 12:30-13:30 Lunch
  
-- 13:30-14:30 Supervised Learning: Reading and visualizing Swiss politicians on Twitter.  **[[Exercise 4]]()**
+- 13:30-14:30 Supervised Learning: Reading and visualizing Swiss politicians on Twitter.  **[[Exercise 4]](https://github.com/anasan00/sds_komex/blob/main/Exercises/Exercise%204/Exercise4.ipynb)**
 
 ###  Friday, 01.03: Social Networks Part 2
 
@@ -80,8 +80,4 @@ communities.  **[[Slides]](https://dgarcia-eu.github.io/SDS-KOMEX/05_NetworkAnal
 
 - 12:30-13:30 Lunch
 
-- 13:30-14:30 Supervised Learning: Politician assortativity on Twitter + community
-detection.  **[[Exercise 5]]()**
-
-
-daily mini feedback link: https://forms.gle/CGTL11gewGSkVjZa8
+- 13:30-14:30 Supervised Learning: Politician assortativity on Twitter + community detection.  **[[Exercise 5]](https://github.com/anasan00/sds_komex/blob/main/Exercises/Exercise%205/Exercise5.ipynb)**
