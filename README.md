@@ -76,8 +76,7 @@ communities.  **[[Slides]](https://dgarcia-eu.github.io/SDS-KOMEX/05_NetworkAnal
 
 - 10:30:11:00 Break
 
-- 11:00-12:30 Tutorial: Network analysis with NetworkX and advanced visualization
-with Gephi. **[[Notebook 5.1]]()**
+- 11:00-12:30 Tutorial: Advanced Network analysis with NetworkX **[[Notebooks]](https://github.com/anasan00/sds_komex/tree/main/tutorials/day5)**
 
 - 12:30-13:30 Lunch
 
